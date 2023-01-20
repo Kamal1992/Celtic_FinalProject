@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"0ae6d940-28a8-49db-a108-92cb315dfc8f","feature":"Renew Fleet feature","scenario":"IRP Renew fleet chrome","start":1674112003744,"group":17,"content":"","tags":"@rwc001,","end":1674112821139,"className":"passed"},{"id":"3b80a3da-c99d-4b92-b632-e55f1bc49797","feature":"Straight Renewal Fleet which is about to expire","scenario":"Straight Renewal of the fleet which is about to expire edge","start":1674112003743,"group":18,"content":"","tags":"@rwc003,","end":1674112740411,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":17,"content":"Thread[TestNG-PoolService-0,5,main]"},{"id":18,"content":"Thread[TestNG-PoolService-1,5,main]"}]);
+});
